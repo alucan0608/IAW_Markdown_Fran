@@ -12,7 +12,7 @@ Un párrafo con palabras en **negrita** ,*cursiva*, en `código`
 
 [IES El Caminàs](https://www.ieselcaminas.org/)
 
-[README] (README.md)
+[README](README.md)
 
 ![IESELCAMINAS](descarga.jpeg)
 
