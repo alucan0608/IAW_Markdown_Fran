@@ -1,5 +1,5 @@
-#Título principal
-##Subtítulo
+# Título principal
+## Subtítulo
 Un párrafo con palabras en **negrita** ,*cursiva*, en `código`
 
 `echo "Hola mundo"`
