@@ -16,8 +16,8 @@ Un párrafo con palabras en **negrita** ,*cursiva*, en `código`
 
 ![IESELCAMINAS](descarga.jpeg)
 
-| Mes | | Año |
+| Mes | Año |
 |  :---:  |  :---:  |
-| 01 | | 1990 |
-| 05 | | 2004 |
-| 09 | | 2023 |
+| 01 | 1990 |
+| 05 | 2004 |
+| 09 | 2023 |
